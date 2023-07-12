@@ -1,2 +1,4 @@
-# primeiro-repositorio
- Primeiro teste de repositorio 
+# Primeiro-repositorio
+ Primeiro repositório de Git e GitHUb
+
+ 
